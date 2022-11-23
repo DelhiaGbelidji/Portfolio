@@ -1,4 +1,4 @@
 [build]
  base    = "react-portfolio-website"
- publish = "react-portfolio-website/build/"
+ publish = "/build/"
  command = "npm run build"
