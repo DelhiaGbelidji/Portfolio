@@ -30,6 +30,7 @@
 }
 .formation__list{
     padding: 2rem;
+    text-align: left;
 }
 
 .formation__list li {
@@ -41,6 +42,7 @@
 .formation__list__icon{
 color: var(--color-primary);
 margin-top: 2px;
+margin-right: 4px;
 }
 
 /* ================== MEDIA QUERIES (MEDIUM DEVICES) ================== */ 

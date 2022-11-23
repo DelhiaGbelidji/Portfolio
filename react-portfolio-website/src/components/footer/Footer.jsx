@@ -22,10 +22,10 @@ const Footer = () => {
         <li> <a href="#contacts">Contatcs</a></li>
         </ul>
         <div className="footer__socials">
-          <a href='https://twitter.com/DGbelidji'><IoLogoTwitter/></a>
-          <a href='https://www.instagram.com/delhiagbe/'><AiFillInstagram/></a>
-          <a href='https://www.tiktok.com/@dedeleretour?_t=8XZrczBgJ41&_r=1/'><FaTiktok/></a>
-          <a href='https://www.linkedin.com/in/delhia-gbelidji/'><AiFillLinkedin/></a>
+          <a href='https://twitter.com/DGbelidji' target='_blank' rel='noreferrer'><IoLogoTwitter/></a>
+          <a href='https://www.instagram.com/delhiagbe/' target='_blank' rel='noreferrer'><AiFillInstagram/></a>
+          <a href='https://www.tiktok.com/@dedeleretour?_t=8XZrczBgJ41&_r=1/' target='_blank' rel='noreferrer'><FaTiktok/></a>
+          <a href='https://www.linkedin.com/in/delhia-gbelidji/' target='_blank' rel='noreferrer'><AiFillLinkedin/></a>
         </div>
         <div className="footer__copyright">
           <small> &copy; DEGE Pro. All rights reserved. </small>
