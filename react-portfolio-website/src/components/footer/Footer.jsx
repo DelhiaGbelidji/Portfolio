@@ -19,7 +19,7 @@ const Footer = () => {
         <li> <a href="#experience">Experience</a></li>
         <li> <a href="#portfolio">Portfolio</a></li>
         <li> <a href="#formation">Formation</a></li>
-        <li> <a href="#contacts">Contatcs</a></li>
+        <li> <a href="#contacts">Contacts</a></li>
         </ul>
         <div className="footer__socials">
           <a href='https://twitter.com/DGbelidji' target='_blank' rel='noreferrer'><IoLogoTwitter/></a>

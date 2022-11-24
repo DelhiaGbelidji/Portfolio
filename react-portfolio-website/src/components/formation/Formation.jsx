@@ -10,10 +10,9 @@ const Formation = () => {
       <h2> Degrees </h2>
 
       <div className="container formation__container">
-
+        
         <article className='formation'>
           <div className="formation__head">
-
             <h3> Ada Tech School</h3>
           </div>
           <ul className='formation__list'>
@@ -46,7 +45,6 @@ const Formation = () => {
 
         <article className='formation'>
           <div className="formation__head">
-
             <h3> University of Paris Sorbonne-Nouvelle</h3>
           </div>
           <ul className='formation__list'>
@@ -77,12 +75,12 @@ const Formation = () => {
 
                <li> 
               <p><BiCheck className='formation__list__icon'/>
-              I also studied a lot post-colonialist literature.  
+              I also studied a lot of post-colonialist literature. 
               </p>
                </li>
           </ul>
-
         </article>
+        
       </div>
     </section>
   )
