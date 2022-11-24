@@ -60,8 +60,8 @@ const Portfolio = () => {
             <p> Anciens Meubles Pour Une Nouvelle Vie : Old Furnitures For A New Life ! In this E-commerce site, you can purchase or sale vintage furnitures. <br/> 
             Coded in React, Express, MongoDB and Node.js. </p>
             <div className="portfolio__item-cta">
-            <a href='https://github.com/DelhiaGbelidji/Ecommerce-front' className='btn' target='_blank' rel="noreferrer">Front</a>
-            <a href='https://github.com/DelhiaGbelidji/Ecommerce-back' className='btn btn-primary' target='_blank' rel="noreferrer">Back</a>
+            <a href='https://github.com/DelhiaGbelidji/projet-collectif---front-fraises' className='btn' target='_blank' rel="noreferrer">Front</a>
+            <a href='https://github.com/DelhiaGbelidji/projet-collectif---back-fraises' className='btn btn-primary' target='_blank' rel="noreferrer">Back</a>
             </div>
         </article>
       </div>
