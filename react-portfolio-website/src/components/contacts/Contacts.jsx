@@ -28,25 +28,11 @@ const Contacts = () => {
 
       <div className="container contact__container">
         <div className="contact__options">
-          <article className='contact__option'>
-            <MdEmail className='contact__option-icon'/>
-            <h4>Email</h4>
-            <h5>delhia.gb5@gmail.com</h5>
-            <a href="mailto:delhia.gb5@gmail.com"> Send A Message</a>
-        </article>
-
         <article className='contact__option'>
             <IoLogoLinkedin className='contact__option-icon'/>
             <h4>LinkedIn</h4>
             <h5> Delhia Gbelidji</h5>
             <a href="https://www.linkedin.com/in/delhia-gbelidji/" target='_blank' rel='noreferrer'>Let's Connect</a>
-        </article>
-
-        <article className='contact__option'>
-            <FaWhatsappSquare className='contact__option-icon'/>
-            <h4>WhatsApp</h4>
-            <h5> Click below</h5>
-            <a href="https://api.whatsapp.com/send?phone=33608888313" target='_blank' rel='noreferrer'>Send A Message</a>
         </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
