@@ -39,9 +39,8 @@ const About = () => {
 
         <p> Hi, I am Delhia Gbelidji, 25 years old and former student in French Literature and Communication in which I have a Bachelor Degree. <br>
         </br>
-        I am passionnate in poetry and militant literature (feminism and post-colonialist literature). I started Web Developement a few months ago in Ada Tech School. <br></br>
-        I also work as a sails counsellor for two years now, in order to provide for my needs. <br></br>
-        My goals for the future are to create my own all digital publishing house and bookstore. It will meet my values of inclusion, kindness and openmindness. This is also some of the values I am looking for in the future company I will work with.  </p>
+        I am passionnate in poetry and literature. I started Web Developement two years ago in Ada Tech School. <br></br>
+        For a year now, I've been an apprentice at Teamoty. <br></br></p>
         <a href='#contacts' className='btn btn-primary'> Want to know more? </a>
 
       </div>

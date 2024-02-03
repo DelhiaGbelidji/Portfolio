@@ -6,12 +6,11 @@ import Experience from "./components/experience/Experience"
 import Portfolio from "./components/portfolio/Portfolio"
 import Formation from "./components/formation/Formation"
 import Contacts from "./components/contacts/Contacts"
-import Footer from "./components/footer/Footer"
 
 
 export const App = () => {
   return (
-    <> 
+    <div style={{paddingBottom: "20px"}}> 
       <Header />
       <Nav/>
       <About/>
@@ -19,9 +18,7 @@ export const App = () => {
       <Portfolio/>
       <Formation/>
       <Contacts/>
-      <Footer/> 
-
-    </>
+    </div >
   )
 }
 

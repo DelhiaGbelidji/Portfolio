@@ -11,10 +11,8 @@
 }
 
 :root {
---color-bg:#f0386b; 
---color-bg-variant:#ff5376;
---color-primary:#E2C290;
---color-primary-variant:#6b2d5c ;
+--color-bg:#a50e3b; 
+--color-primary:#db8d0e;
 --color-white: #fff;
 --color-light:#F8C0C8;
 
@@ -34,11 +32,10 @@ html{
 }
 
 body{
+    background-color: #000;
     font-family: 'Montserrat', sans-serif;
-    background: var(--color-primary-variant);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(../src/assets/bg-texture.png);
 } 
 
 
@@ -80,10 +77,6 @@ a{
     transition: var(--transitions);
 }
 
-a:hover{
-    color: var(--color-light);
-}
-
 .btn{
     width: max-content;
     display: inline-block;
@@ -96,14 +89,15 @@ a:hover{
 }
 
 .btn:hover{
-    background: var(--color-light);
-    color: var(--color-bg);
-    border-color: transparent;
+    background: transparent;
+    border-color: var(--color-primary);
+    transition: var(--transition);
+    color: var(--color-primary);
 }
 
 .btn-primary {
     background: var(--color-primary);
-    color: var(--color-bg);
+    color: #000;
 }
 
 img{

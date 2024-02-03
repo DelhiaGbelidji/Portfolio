@@ -12,11 +12,6 @@
     transition: var(--transition);
 }
 
-.formation:hover {
-    background: transparent;
-    border-color: var(--color-primary);
-    cursor: default;
-}
 .formation__head {
     background: var(--color-bg-variant);
     padding: 2rem;
