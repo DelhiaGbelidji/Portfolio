@@ -1,7 +1,7 @@
 import React from 'react'
 import {BsLinkedin} from 'react-icons/bs'
 import {AiFillGithub} from 'react-icons/ai'
-import {SiNotion} from 'react-icons/si'
+
 const HeaderSocials = () => {
   return (
     <div className='header__socials'> 
